@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WorldWideImporters/WorldWideImporters.csproj" />
+  <Project Path="WorldWideImportersAPI/WorldWideImportersAPI.csproj" />
+</Solution>
